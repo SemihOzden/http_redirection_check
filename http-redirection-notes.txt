@@ -1,0 +1,11 @@
+What is https redirection?
+    - Website can be redirect from old domain name to new one
+    - It can be temporary , permanent and special.
+When user requests to web page, it returns response status codes within its header.
+
+If https redirection exists, following status codes are returned by the web server
+Permanent redirection status codes are "301" and "308"
+Temporary redirection status codes are "302" "303" and "307"
+Special redirection status codes are "300" and 304
+
+If response status code equals to 200, it means that that page has SSL certificate

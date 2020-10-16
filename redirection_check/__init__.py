@@ -1,0 +1,1 @@
+from redirection_check.ssl_check import ssl_check

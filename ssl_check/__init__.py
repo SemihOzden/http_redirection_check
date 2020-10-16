@@ -1,1 +1,0 @@
-from ssl_check.ssl_check import ssl_check
